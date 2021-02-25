@@ -1,0 +1,93 @@
+.top{
+  background-color: darkcyan;
+}
+
+h1{
+  background: darkcyan;
+  padding-left: 40px;
+  
+  color:white;}
+
+body{
+  
+  background: lightcyan;
+  
+}
+
+.logo{
+  background:darkcyan;
+  
+  padding-right: 70bpx;
+}
+p1
+{ color: lightseagreen;
+  font-family: 'Gill Sans','sans-serif';
+  font-size: 20px;
+  
+  
+}
+p2{
+  font-family: 'Brush Script MT','cursive';
+  color: blueviolet;
+  font-size: 20px;
+  
+}
+#searchbtn{
+  
+ background-color:  cadetblue       ;
+  color: azure;
+}
+
+.box{
+  
+  background:   deepskyblue     ;
+  
+}
+.box1{
+  
+  background: turquoise;
+  
+}
+
+#flip{
+  
+  color:  darkgreen;
+}
+#signup{
+  font-size: 20px;
+  
+  font-family :'Times New Roman','lucida handwriting';
+  background: darkseagreen;
+  color: darkgreen;
+}
+
+#enq{
+  font-family: "Times New Roman",Times,serif;
+   font-size: 30px;
+  color: royalblue; 
+}
+p3{
+  color: cadetblue;
+  font-size: 20px;
+}
+
+
+#amz{ 
+  
+   animation-duration: 400ms;
+   animation-name: blink;
+   animation-iteration-count: infinite;
+   animation-direction: alternate;
+}
+@keyframes blink {
+   from {
+      opacity: 1;
+   }
+   to {
+      opacity: 5;
+  color:white;
+}
+  
+  
+  
+  

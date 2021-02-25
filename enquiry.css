@@ -1,0 +1,50 @@
+h1{
+  color: #117A73;
+  font-family: Orbitron;
+  font-size: 30px;
+  background: #0EBDB8;
+}
+
+body{
+  background : #E0FFFF;
+  
+}
+
+ol{
+  font-weight: bold;
+  
+ color: #0D7068;
+}
+
+.user{
+  
+  
+  color:#073D39;
+  font-style: italic;
+  font-weight: bold;
+  
+}
+
+#lp{
+/*color:#1BF5EE; */
+  color:#15C2BC;
+  font-family: times new roman,cursive
+}
+#quries
+{ font-family:'Brush Script MT',sans serif;
+  color:#27C294;
+  font-weight: bolder;
+  font-size: 20px;
+  
+}
+button{
+  color:#0D7068;
+  background: #68F7D0;
+  font-weight: bolder;
+  
+}
+#link
+{ 
+  font-family: times new roman,italic;
+  color:  darkcyan ;
+}
